@@ -2,6 +2,7 @@
 
 A lightweight implementation of a **fully connected neural network** built from scratch using **PyTorch tensors only** (no autograd).  
 It features a manual computational graph, custom backpropagation, and batch-wise **stochastic gradient descent**.
+<img width="819" height="542" alt="image" src="https://github.com/user-attachments/assets/3ab81458-5ae9-4250-8bb0-9aa0684b6ab9" />
 
 ---
 
